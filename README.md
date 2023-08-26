@@ -6,7 +6,7 @@
 
 I'm Veerasaroot Bunkangwan! 
 - <i>Currently:</i> Laravel Full-Stack Dev. 
-- <i>Previously:</i> .NET C# Full-Stack Dev.
+- <i>Previously:</i> .NET C# Full-Stack Programmer.
 
 <h2>📫 How to reach me:</h2>
 

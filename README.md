@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="center"><a href="https://github.com/veerasaroot"><img src="./boss.png" width="200"></a></p>
+<h2 align="center">Veerasaroot Bunkangwan</h2>
+<p align="center"><b>I’m Thai student and Programmer</b></p>
 
-<!--
-**veerasaroot/veerasaroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hey! 👋</h2>
 
-Here are some ideas to get you started:
+I'm Veerasaroot Bunkangwan! 
+- <i>Currently:</i> Laravel Full-Stack Dev. 
+- <i>Previously:</i> .NET C# Full-Stack Dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:bosunakakawa@gmail.com">![bosunakakawa@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
